@@ -31,6 +31,18 @@ const proyects = [
     image: "/images/dance-academy.png",
     link: "https://mydanceacademy-uwcw.onrender.com/"
   },
+  {
+    title: "Game Snake",
+    description: "Juego clásico de la serpiente, desarrollado en js, HTML y CSS.",
+    image: "/images/snake-game.png",
+    link: "snakesnakegame.netlify.app"
+  },
+  {
+    title: "Encriptador",
+    description: "Aplicación web para encriptar y desencriptar mensajes, realizada en el 2021",
+    image: "/images/encriptador.png",
+    link: "https://fabianrojassab.github.io/encriptador/"
+  },
 ];
 
 export default function Home() {
