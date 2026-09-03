@@ -47,7 +47,7 @@ const proyects = [
     title: "MizCuentas",
     description: "Aplicacion web para llevar las cuentas personales",
     image: "/images/mizcuentas.png",
-    link: "https://https://mizcuentas.netlify.app/"
+    link: "https://mizcuentas.netlify.app/"
   },
 ];
 
