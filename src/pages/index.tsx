@@ -43,6 +43,12 @@ const proyects = [
     image: "/images/encriptador.png",
     link: "https://fabianrojassab.github.io/encriptador/"
   },
+  {
+    title: "MizCuentas",
+    description: "Aplicacion web para llevar las cuentas personales",
+    image: "/images/mizcuentas.png",
+    link: "https://https://mizcuentas.netlify.app/"
+  },
 ];
 
 export default function Home() {
